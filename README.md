@@ -20,7 +20,6 @@ I organized the data into a basic dimensional model (star schema) and created a 
 - Organized measures into folders: *Base*, *YTD*, *PYTD*, and *Switch*
 
 ### 📸 Data Model Screenshot
-*(Insert image in your repo and update the file name below)*  
 ![Data Model](model.png)
 
 ---
@@ -37,7 +36,6 @@ The report focuses on performance comparison and quick insight.
 - Clean title/header and consistent formatting throughout
 
 ### 📸 Dashboard Screenshot
-*(Insert image in your repo and update below)*  
 ![Dashboard](dashboard.png)
 
 ---
