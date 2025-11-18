@@ -21,7 +21,7 @@ I organized the data into a basic dimensional model (star schema) and created a 
 
 ### 📸 Data Model Screenshot
 *(Insert image in your repo and update the file name below)*  
-`![Data Model](model.png)`
+![Data Model](model.png)
 
 ---
 
@@ -38,7 +38,7 @@ The report focuses on performance comparison and quick insight.
 
 ### 📸 Dashboard Screenshot
 *(Insert image in your repo and update below)*  
-`![Dashboard](dashboard.png)`
+![Dashboard](dashboard.png)
 
 ---
 
@@ -50,13 +50,10 @@ The report focuses on performance comparison and quick insight.
 - Ability to build reusable KPI-switching logic  
 - Dashboard design geared toward executive-style insights  
 
+[Download the Power BI Report (.pbix)](Year%20to%20Date%20Plant%20Sales%20Analysis.pbix)
+
 ---
 
 ## 🎥 Reference Video
 [ *The Only Power BI Portfolio Project You Need*](https://www.youtube.com/watch?v=BLxW9ZSuuVI&t=3456s)
 
----
-
-## 📦 Files Included
-- `![Year to Date Plant Sales Analysis](Year to Date Plant Sales Analysis.pbix)` — full Power BI report  
-- `![README.md](README.md)` — project overview  
